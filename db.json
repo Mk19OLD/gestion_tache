@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "task": "Learn JavaScript",
+      "category": "Programming",
+      "when": "2025-08-30",
+      "priority": "High",
+      "fulfillment": "30",
+      "description": "Async functions, Promises, DOM Manipulation"
+    },
+    {
+      "id": "2",
+      "task": "Shopping",
+      "category": "Household",
+      "when": "2025-08-08",
+      "priority": "High",
+      "fulfillment": "15",
+      "description": "Potatoes, Onions, Eggs, Olive Oil"
+    },
+    {
+      "id": "3",
+      "task": "Consequat Libero op",
+      "category": "Reprehenderit sit n",
+      "when": "2012-01-26",
+      "priority": "Veniam iusto quidem",
+      "fulfillment": "66",
+      "description": "Perferendis non opti"
+    },
+    {
+      "id": "4",
+      "task": "Consequat Libero op",
+      "category": "Reprehenderit sit n",
+      "when": "2012-01-26",
+      "priority": "Veniam iusto quidem",
+      "fulfillment": "100",
+      "description": "Perferendis non opti"
+    },
+    {
+      "id": "5",
+      "task": "Apprentissage en Data",
+      "category": "Voluptatibus reprehe",
+      "when": "1983-12-27",
+      "priority": "Fugiat non voluptat",
+      "fulfillment": "100",
+      "description": "Quia dolor quibusdam"
+    }
+  ]
+}
